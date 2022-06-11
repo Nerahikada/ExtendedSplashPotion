@@ -1,2 +1,2 @@
 # ExtendedSplashPotion
-Splash potions with customizable range
+Make splash potions customizable range!
