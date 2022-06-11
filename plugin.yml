@@ -1,0 +1,7 @@
+---
+name: ExtendedSplashPotion
+version: 0.0.1
+main: Nerahikada\ExtendedSplashPotion\Main
+api: 4.5.1
+src-namespace-prefix: Nerahikada\ExtendedSplashPotion
+...
